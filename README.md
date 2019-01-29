@@ -1,4 +1,16 @@
 # PagerController
 PagerController
 
-[![Watch the video]()](https://github.com/yiruchujian/PagerController/blob/master/Viedeo/ScreenRecording_01-29-2019%2013-17-41.MP4)
+展示效果： 
+
+![Image text](https://github.com/yiruchujian/PagerController/blob/master/Viedeo/IMG_0430.jpg)
+![Image text](https://github.com/yiruchujian/PagerController/blob/master/Viedeo/IMG_0431.jpg)
+![Image text](https://github.com/yiruchujian/PagerController/blob/master/Viedeo/IMG_0432.jpg)
+
+具体使用可以查看
+
+CRPageViewDemoController.swift 
+
+可以将 PagerController.swift copy 到项目 将iPhone X 的判断和button的简便方法 改成自己
+
+或者将 PageView文件夹copy进项目
